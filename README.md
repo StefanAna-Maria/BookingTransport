@@ -78,3 +78,7 @@ The application simulates a ride-sharing system with features such as:
 - **IntelliJ IDEA**
 
 ---
+
+## Entity-Relationship Diagram
+<img width="957" height="878" alt="BookingTransport_ERDiagram" src="https://github.com/user-attachments/assets/c140f3af-b276-450c-b1f9-263e70df72f2" />
+
