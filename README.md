@@ -72,9 +72,10 @@ The application simulates a ride-sharing system with features such as:
 
 ## Technologies Used
 
-- **Java**
+- **Java 21**
 - **MySQL**
 - **JDBC**
+- **CSV File Storage** for persistent data
 - **IntelliJ IDEA**
 
 ---
