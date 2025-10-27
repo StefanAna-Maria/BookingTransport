@@ -1,0 +1,24 @@
+# IntelliJ project files
+.idea/
+*.iml
+/out/
+/target/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Build tools
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Configs containing credentials
+*.properties
+*.env
